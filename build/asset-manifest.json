@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nithin_Quicksell_Assignment/static/css/main.b994d2ee.css",
+    "main.js": "/Nithin_Quicksell_Assignment/static/js/main.d3d3de79.js",
+    "index.html": "/Nithin_Quicksell_Assignment/index.html",
+    "main.b994d2ee.css.map": "/Nithin_Quicksell_Assignment/static/css/main.b994d2ee.css.map",
+    "main.d3d3de79.js.map": "/Nithin_Quicksell_Assignment/static/js/main.d3d3de79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b994d2ee.css",
+    "static/js/main.d3d3de79.js"
+  ]
+}

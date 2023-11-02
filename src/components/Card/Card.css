@@ -1,0 +1,86 @@
+
+.redStatus {
+    background: red;
+}
+
+
+.greenStatus {
+    background: green;
+}
+
+.cardContainer {
+    width: 100%;
+    border: 0px solid rgb(224, 209, 209);
+    border-radius: 8px;
+    padding: 5px;
+    box-shadow: rgb(249, 250, 251) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 0px 0px 0px;
+    background: white;
+}
+
+.cardContainer.unavailable .showStatus {
+    background: red;
+}
+
+.cardContainer.available .showStatus {
+    background: rgb(157, 246, 4);
+}
+
+.cardContainer > * {
+    width: 100%;
+}
+
+.showStatus {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 10px;
+    height: 10px;
+    background: rgb(229, 219, 219);
+    border-radius: 50%;
+}
+
+.cardTags {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    
+}
+
+.tags {
+    width: max-content;
+    padding: 4px 8px;
+    border-radius: 5px;
+    border: 1px solid rgb(235, 238, 239);
+}
+.noUserImage {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-size: 14px; 
+    color: white;
+}
+
+
+.cardContainer.unavailable .noUserImage {
+    background-color: rgb(226, 229, 230);
+    color: white;
+}
+
+.cardTitle {
+    display: flex;
+    align-items: flex-start; 
+    margin-left: 5px;
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 14px;
+}
+
+.statusIcon {
+    margin-top: 1px;
+    margin-right: 2px;
+    font-weight: 100;
+}
