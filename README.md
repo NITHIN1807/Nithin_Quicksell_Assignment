@@ -5,9 +5,11 @@ The website can be viewed in the link https://nithin1807.github.io/Nithin_Quicks
 
 
 #Main outcome of this assignment
-1.User availabilty status is given by using the red and green lights.Red light shows user is unavailable(Availabilty==False) Green light indicates(User aavailable==True)
-2.The Priority icon ,user availabilty icon,status icon are included in the dashboard itself.
-3.Display box is used for selecting grouping and ordering
+#1.User availabilty status is given by using the red and green lights.Red light shows user is unavailable(Availabilty==False) Green light indicates(User aavailable==True)
+
+#2.The Priority icon ,user availabilty icon,status icon are included in the dashboard itself.
+
+#3.Display box is used for selecting grouping and ordering
 
 
 #Whats done in this assignment
