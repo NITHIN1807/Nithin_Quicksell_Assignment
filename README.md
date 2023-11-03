@@ -4,12 +4,40 @@ The website can be viewed in the link https://nithin1807.github.io/Nithin_Quicks
 
 
 
-#Main outcome of this assignment
+#MAIN OUTCOME OF ASSIGNMENT
+
 #1.User availabilty status is given by using the red and green lights.Red light shows user is unavailable(Availabilty==False) Green light indicates(User aavailable==True)
 
 #2.The Priority icon ,user availabilty icon,status icon are included in the dashboard itself.
 
 #3.Display box is used for selecting grouping and ordering
+
+#4.Ordering of results based on priority and title
+
+
+
+#ICONS AND SYMBOLS
+
+     No priority:  0: '…'
+    
+    Low Priority:  1: '▂'
+    
+         Medium :  2: '▅'
+    
+            High:  3: '▉'
+    
+          Urgent:  4: '⚠️'
+
+         In progress:   ◐
+          
+             Backlog:   ⦿
+              
+                Todo:   〇
+
+
+
+
+          
 
 
 #Whats done in this assignment
