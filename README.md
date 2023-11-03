@@ -3,7 +3,7 @@
 The website can be viewed using link https://nithin1807.github.io/Nithin_Quicksell_Assignment/
 
 
-#NOTE  : The complete node module files are given on the master branch .In case any files are missing the required files can be downloaded from that
+#NOTE  : The complete node module files are given on the master branch .In case any files are missing the required files can be downloaded from that or PLEASE INSTALL NODE MODULES USING TERMINAL BEFORE RUNNING THE PROJECT.
 
 
 #MAIN OUTCOME OF ASSIGNMENT
