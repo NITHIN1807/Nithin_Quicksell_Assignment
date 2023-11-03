@@ -1,4 +1,4 @@
-# Nithin_Quicksell_Assignment
+# NITHIN_QUICKSELL_ASSIGNMENT
 
 The website can be viewed using link https://nithin1807.github.io/Nithin_Quicksell_Assignment/
 
@@ -6,9 +6,9 @@ The website can be viewed using link https://nithin1807.github.io/Nithin_Quickse
 #NOTE  : The complete node module files are given on the master branch .In case any files are missing the required files can be downloaded from that or PLEASE INSTALL NODE MODULES USING TERMINAL BEFORE RUNNING THE PROJECT.
 
 
-#MAIN OUTCOME OF ASSIGNMENT
+#MAIN CHALLENGES OR HIGHLIGHTS OF ASSIGNMENT
 
-#1.User availabilty status is given by using the red and green lights.Red light shows user is unavailable(Availabilty==False) Green light indicates(User aavailable==True)
+#1.User availabilty status is given by using the red and green lights. 🔴 Red light shows user is unavailable(Availabilty==False) 🟢 Green light indicates(User available==True)
 
 #2.The Priority icon ,user availabilty icon,status icon are included in the dashboard itself.
 
@@ -16,25 +16,31 @@ The website can be viewed using link https://nithin1807.github.io/Nithin_Quickse
 
 #4.Ordering of results based on priority and title
 
+#5.If the users image is not given a function is made to give a background colour randomly for each user and inside that the first two letters of the user is shown.
+
+
 
 
 #ICONS AND SYMBOLS
 
-     No priority:  0: '…'
-    
-    Low Priority:  1: '▂'
-    
-         Medium :  2: '▅'
-    
-            High:  3: '▉'
-    
-          Urgent:  4: '⚠️'
-
-         In progress:   ◐
-          
-             Backlog:   ⦿
-              
-                Todo:   〇
+                         No priority:  0: '…'
+                        
+                        Low Priority:  1: '▂'
+                        
+                             Medium :  2: '▅'
+                        
+                                High:  3: '▉'
+                        
+                              Urgent:  4: '⚠️'
+                    
+                             In progress:   ◐
+                              
+                                 Backlog:   ⦿
+                                  
+                                    Todo:   〇
+                    
+                      Availability=True :   🟢
+                      Availabilty=False :   🔴
 
 
 
@@ -43,6 +49,7 @@ The website can be viewed using link https://nithin1807.github.io/Nithin_Quickse
 
 
 #ASSIGNMENT
+
 
 Created an interactive Kanban board application using React JS that interacts with the provided API from  https://api.quicksell.co/v1/internal/frontend-assignment
 
